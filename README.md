@@ -59,6 +59,6 @@ Remember to study the documentation and the sample project thoroughly. It'll gui
 
 
 ## Credits
-sabakan (さば缶) for making the original scripts, wall and floor graphics
+sabakan (さば缶) for making the original scripts, sample project, wall and floor graphics
 
 Me (rutare) for translation and editing of the sample project file and scripts
