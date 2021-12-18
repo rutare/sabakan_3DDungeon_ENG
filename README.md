@@ -1,4 +1,4 @@
-# sabakan-s_3DDungeon_ENG
+# sabakan_3DDungeon_ENG
 These scripts and the documentation in the sample project was originally in Japanese.
 My Japanese may not be perfect, but there shouldn't be any problems.
 I made edits to the sample project to better showcase the scripts, but other than the documentation I didn't touch
