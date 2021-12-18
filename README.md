@@ -56,7 +56,10 @@ As for adding the scripts to an existing project:
 And you should be done.
 Remember to study the documentation and the sample project thoroughly. It'll guide you through how to use it.
 
+## More stuff from sabakan (さば缶)
+sabakan's repository: https://ux.getuploader.com/Rpg_Maker_VXace_Petitrare/
 
+If it ever goes down I'll reupload everything to github myself.
 
 ## Credits
 sabakan (さば缶) for making the original scripts, sample project, wall and floor graphics
