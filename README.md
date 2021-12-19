@@ -48,9 +48,13 @@ I've made the translated Sample Project file availible to download in the "Relea
 Using it is very simple, just unpack it wherever you like and open the project file with RPG Maker VX ACE (RPGツクールVXACE).
 
 As for adding the scripts to an existing project:
-1) Download the .zip and unpack inside of your project folder.
+1) Download the .zip and unpack it.
 
-2) Open "Three_D_Scripts" and you will see several .rb files. Open them with the text reader of your choice (i.e. notepad++)
+2) Copy all files under "Graphics" into your project folder. Files in "Graphics/Pictures" aren't necessary.
+
+3) Open your project's tilesets tab and copy everything you see in the 3DDungeon sample project.
+
+4) Open "Three_D_Scripts" and you will see several .rb files. Open them with the text reader of your choice (i.e. notepad++)
    and insert the scripts into your projects script editor. The scripts numbered "6x" are optional.
 
 And you should be done.
