@@ -66,6 +66,6 @@ sabakan's repository: https://ux.getuploader.com/Rpg_Maker_VXace_Petitrare/
 If it ever goes down I'll reupload everything to github myself.
 
 ## Credits
-sabakan (さば缶) for making the original scripts, sample project, wall and floor graphics
+sabakan (さば缶) for making the original scripts, sample project, and all associated graphics used
 
 Me (rutare) for translation and editing of the sample project file and scripts
